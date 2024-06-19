@@ -34,7 +34,7 @@ function numberPallindrome(num)
                 console.log(temp,"is pallindrome")
             }
             else{
-                console.log(temp,"is not pallindrome")
+                console.log(console.log(temp,"is not pallindrome"))
             }
 
 }
